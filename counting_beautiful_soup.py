@@ -185,4 +185,5 @@ if __name__ == '__main__':
         print_csv(stats, 'pussy_avg', "pussy_results_csv.txt")
         print_csv(stats, 'ho_avg', "ho_results_csv.txt")
         print_csv(stats, 'dick_avg', "dick_results_csv.txt") 
-        print_csv(stats, 'nigga_avg', "nigga_results_csv.txt") 
+        # excuse my langage, but you have to count the word
+        print_csv(stats, 'ninja_avg', "ninja_results_csv.txt") 
